@@ -1,13 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm clout,
+clout,
 ===============================================================================================================================
 
 Computer Science Undergrad @Leicester
 -------------------------------------
 
-Worked on multiple full-stack projects, currently learning discord.py and game development (soon)
-
-* 🌍  I'm based in London & Leicester
-* ✉️  You can contact me at [clouthook@proton.me](mailto:clouthook@proton.me)
+* 🌍  London & Leicester
+* ✉️  contact me at [clouthook@proton.me](mailto:clouthook@proton.me)
 
 
 ### Socials
